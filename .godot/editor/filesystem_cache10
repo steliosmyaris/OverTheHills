@@ -1,6 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1768306811
+::res://::1768653606
 icon.svg::CompressedTexture2D::6537311654393752070::1767005747::1767005753::1::::<><><>0<>0<>066f6fe5d6dca5ebaac751667929fe41<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+OverTheHills.mp3::AudioStreamMP3::9173351872465239381::1768650339::1768653609::1::::<><><>0<>0<>5239f97deef6c79b66e1bd58907576f7<>res://.godot/imported/OverTheHills.mp3-bf4d2d1880b2292e5062054c5ca0f1ca.mp3str::
 ::res://asset/::1767006387
 ::res://asset/game/::1767006387
 ::res://asset/game/characters/::1767006387
@@ -54,10 +55,10 @@ player.tscn::PackedScene::4319263686733466613::1767612191::0::1::::<><><>0<>0<><
 tilling_state.gd::GDScript::8985464843082280547::1767392816::0::1::::<>NodeState<><>0<>0<><>::
 walk_state.gd::GDScript::3072626414191155061::1767099842::0::1::::<>NodeState<><>0<>0<><>::
 watering_state.gd::GDScript::8011662455062633089::1767392967::0::1::::<>NodeState<><>0<>0<><>::
-::res://scenes/components/::1768167727
-hit_component.gd::GDScript::7637740127364893105::1768167727::0::1::::HitComponent<>Area2D<><>0<>0<><>::
+::res://scenes/components/::1768319127
+hit_component.gd::GDScript::7637740127364893105::1768319127::0::1::::HitComponent<>Area2D<><>0<>0<><>::
 hit_component.tscn::PackedScene::8225729934929634436::1768153161::0::1::::<><><>0<>0<><>::uid://dg21p1npevowf::::res://scenes/components/hit_component.gd
-hurt_component.gd::GDScript::9070776465651243792::1768153083::0::1::::HurtComponent<>Area2D<><>0<>0<><>::
+hurt_component.gd::GDScript::9070776465651243792::1768319127::0::1::::HurtComponent<>Area2D<><>0<>0<><>::
 hurt_component.tscn::PackedScene::2163171276054606656::1768153163::0::1::::<><><>0<>0<><>::uid://d2h7ml1sxxp8k::::res://scenes/components/hurt_component.gd
 interactable_components.gd::GDScript::447530179173210183::1767699712::0::1::::InteractableComponent<>Area2D<><>0<>0<><>::
 interactable_components.tscn::PackedScene::8172481930102529932::1767612689::0::1::::<><><>0<>0<><>::uid://gm10yyaa1oq6::::res://scenes/components/interactable_components.gd
@@ -70,9 +71,9 @@ small_house.tscn::PackedScene::7003246577973207032::1767700433::0::1::::<><><>0<
 ::res://scenes/objects/::1768151588
 ::res://scenes/objects/trees/::1768151957
 small_tree.tscn::PackedScene::8653151836253185742::1768151957::0::1::::<><><>0<>0<><>::uid://d1j6f3lmagqm4::::res://asset/game/objects/Basic_Grass_Biom_things.png
-::res://scenes/test/::1768152182
+::res://scenes/test/::1768647971
 test_scene_default.tscn::PackedScene::6511803071190494902::1767092949::0::1::::<><><>0<>0<><>::uid://bn7suicov7smp::::res://tilesets/game_tile_sets.tres
-test_scene_house_tilemap.tscn::PackedScene::4075688379107061479::1767911259::0::1::::<><><>0<>0<><>::uid://bn7suicov7smp::::res://tilesets/game_tile_sets.tres<>uid://b2sjv288s21jd::::res://scenes/characters/player/player.tscn
+test_scene_house_tilemap.tscn::PackedScene::4075688379107061479::1768647971::0::1::::<><><>0<>0<><>::uid://bn7suicov7smp::::res://tilesets/game_tile_sets.tres<>uid://b2sjv288s21jd::::res://scenes/characters/player/player.tscn
 test_scene_object_trees.tscn::PackedScene::5232747663606448614::1768152182::0::1::::<><><>0<>0<><>::uid://bn7suicov7smp::::res://tilesets/game_tile_sets.tres<>uid://b2sjv288s21jd::::res://scenes/characters/player/player.tscn
 test_scene_player.tscn::PackedScene::7327647477478077915::1767452660::0::1::::<><><>0<>0<><>::uid://bn7suicov7smp::::res://tilesets/game_tile_sets.tres<>uid://b2sjv288s21jd::::res://scenes/characters/player/player.tscn
 test_scene_tilemap.tscn::PackedScene::8568523133219465789::1767092817::0::1::::<><><>0<>0<><>::uid://bn7suicov7smp::::res://tilesets/game_tile_sets.tres
@@ -83,6 +84,6 @@ data_types.gd::GDScript::7123775791541369801::1767389275::0::1::::DataTypes<>Ref
 ::res://scripts/state_machine/::1767613377
 node_state.gd::GDScript::6462135561544330115::1767099084::0::1::::NodeState<>Node<><>0<>0<><>::
 node_state_machine.gd::GDScript::6363763402100850829::1767613377::0::1::::NodeStateMachine<>Node<><>0<>0<><>::
-::res://tilesets/::1768152182
-game_tile_sets.tres::TileSet::3366064784807177087::1768152182::0::1::::<><><>0<>0<><>::uid://nklo3pb0hvja::::res://asset/game/tilesets/Water.png<>uid://c8wr10tbw2mn2::::res://scenes/houses/large_house.tscn<>uid://co46nkdauobgm::::res://asset/game/tilesets/Grass.png<>uid://c726j7txknbk::::res://asset/game/tilesets/Tilled_Dirt_Wide_v2.png<>uid://d1j6f3lmagqm4::::res://asset/game/objects/Basic_Grass_Biom_things.png<>uid://d3m52yhr81sm5::::res://scenes/houses/medium_house.tscn<>uid://c61oph3krcpki::::res://scenes/houses/small_house.tscn<>uid://dvjwe8mdux743::::res://scenes/objects/trees/small_tree.tscn
-house_tile_set.tres::TileSet::902264040698788520::1768151634::0::1::::<><><>0<>0<><>::uid://cq0lk50sagr1w::::res://asset/game/tilesets/Wooden_House_Walls_Tilset.png<>uid://d3ykhlcrliv5p::::res://asset/game/objects/Basic_Furniture.png<>uid://b5c2gaj08y8ci::::res://scenes/houses/door.tscn
+::res://tilesets/::1768647247
+game_tile_sets.tres::TileSet::3366064784807177087::1768647247::0::1::::<><><>0<>0<><>::uid://nklo3pb0hvja::::res://asset/game/tilesets/Water.png<>uid://c8wr10tbw2mn2::::res://scenes/houses/large_house.tscn<>uid://co46nkdauobgm::::res://asset/game/tilesets/Grass.png<>uid://c726j7txknbk::::res://asset/game/tilesets/Tilled_Dirt_Wide_v2.png<>uid://d1j6f3lmagqm4::::res://asset/game/objects/Basic_Grass_Biom_things.png<>uid://d3m52yhr81sm5::::res://scenes/houses/medium_house.tscn<>uid://c61oph3krcpki::::res://scenes/houses/small_house.tscn<>uid://dvjwe8mdux743::::res://scenes/objects/trees/small_tree.tscn
+house_tile_set.tres::TileSet::902264040698788520::1768647246::0::1::::<><><>0<>0<><>::uid://cq0lk50sagr1w::::res://asset/game/tilesets/Wooden_House_Walls_Tilset.png<>uid://d3ykhlcrliv5p::::res://asset/game/objects/Basic_Furniture.png<>uid://b5c2gaj08y8ci::::res://scenes/houses/door.tscn
